@@ -1,0 +1,19 @@
+ion-card {
+  --background: white;
+  border-radius: 20px;
+  padding: 20px;
+  font-size: 25px;
+  cursor: pointer;
+}
+ion-card-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  --color:#3dc2ff;
+}
+ion-card-subtitle {
+  font-size: 14px;
+}
+ion-card-content {
+  font-size: 14px;
+}
